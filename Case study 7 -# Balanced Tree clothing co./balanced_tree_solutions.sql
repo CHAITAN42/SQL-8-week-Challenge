@@ -1,12 +1,5 @@
 /*
 	Balanced Tree (SQL Solutions)
-	SQL Author: Jaime M. Shaker
-	SQL Challenge Creator: Danny Ma (https://www.linkedin.com/in/datawithdanny/) (https://www.datawithdanny.com/)
-	SQL Challenge Location: https://8weeksqlchallenge.com/
-	Email: jaime.m.shaker@gmail.com or jaime@shaker.dev
-	Website: https://www.shaker.dev
-	LinkedIn: https://www.linkedin.com/in/jaime-shaker/
-	
 	File Name: balanced_tree_solutions.sql
 	
 	Balanced Tree
@@ -645,7 +638,7 @@ category_id|category_name|total_revenue|revenue_percentage|
           1|Womens       |    505711.57|             44.63|
           2|Mens         |    627512.29|             55.37|
          
--- 9.  What is the total transaction “penetration” for each product? 
+-- 9.  What is the total transaction Â“penetrationÂ” for each product? 
 -- (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by total number of transactions)    
 
 WITH get_total_sold AS (
