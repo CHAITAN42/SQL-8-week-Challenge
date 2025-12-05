@@ -1,12 +1,6 @@
 /*
 	Clique Bait (SQL Solutions)
-	SQL Author: Jaime M. Shaker
-	SQL Challenge Creator: Danny Ma (https://www.linkedin.com/in/datawithdanny/) (https://www.datawithdanny.com/)
-	SQL Challenge Location: https://8weeksqlchallenge.com/
-	Email: jaime.m.shaker@gmail.com or jaime@shaker.dev
-	Website: https://www.shaker.dev
-	LinkedIn: https://www.linkedin.com/in/jaime-shaker/
-	
+
 	File Name: clique_bait_solutions.sql
 	
 	Clique Bait
