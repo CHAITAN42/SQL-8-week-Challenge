@@ -1,12 +1,5 @@
 /*
 	Fresh Segments (SQL Solutions)
-	SQL Author: Jaime M. Shaker
-	SQL Challenge Creator: Danny Ma (https://www.linkedin.com/in/datawithdanny/) (https://www.datawithdanny.com/)
-	SQL Challenge Location: https://8weeksqlchallenge.com/
-	Email: jaime.m.shaker@gmail.com or jaime@shaker.dev
-	Website: https://www.shaker.dev
-	LinkedIn: https://www.linkedin.com/in/jaime-shaker/
-	
 	File Name: fresh_segments_solutions.sql
 	
 	Fresh Segments
@@ -765,7 +758,7 @@ interest_id|interest_name                         |stddev_ranking|max_ranking|mi
 
 ****************************************************/
 
--- The index_value is a measure which can be used to reverse calculate the average composition for Fresh Segments’ clients.
+-- The index_value is a measure which can be used to reverse calculate the average composition for Fresh SegmentsÂ’ clients.
 
 -- Average composition can be calculated by dividing the composition column by the index_value column rounded to 2 decimal places.
 
